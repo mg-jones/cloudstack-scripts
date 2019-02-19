@@ -1,0 +1,11 @@
+[Global]
+DefaultTemplate: Ubuntu 18.04.1 LTS
+
+# Site specific keys
+[dev]
+apiurl = https://dev.cloudstack.example.com:8443/client/api
+apikey = [INSERT KEY HERE]
+secret = [INSERT SECRET HERE]
+zone = Development
+account = domain_admin_account
+domain = DEV
